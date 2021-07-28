@@ -82,8 +82,8 @@ Piama Indians Dataset looks as below:
 │
 └─ requirements.txt
     
-
 ```
+    
     
 ```static``` : contains static file (css, webp) for UI
     
