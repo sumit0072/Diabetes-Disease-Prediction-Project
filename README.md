@@ -98,9 +98,9 @@ A preview of Piama Indians Dataset is as below:
 │
 └─ requirements.txt
     
-
 ```
-    
+
+
 ```static``` : contains static file (css, webp) for UI
     
 ```templates``` : contains templates for UI
