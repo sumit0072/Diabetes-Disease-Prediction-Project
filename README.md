@@ -16,7 +16,7 @@
 2. [Quick Demo](#2)<br>   
 3. [Dataset Prview](#3)<br>
 4. [Description of variables in the dataset](#4)<br>
-5. [Car Price Prediction directory tree](#5)<br>
+5. [Diabetes-Prediction directory tree](#5)<br>
 6. [Installation](#6)<br>
 7. [Technologies Used](#7)<br>
 </div>
@@ -69,7 +69,7 @@ A preview of Piama Indians Dataset is as below:
 
 ```Outcome:``` Class variable (1: tested positive for diabetes, 0: tested negative for diabetes)
 
-<h3>Car Price Prediction directory tree</h3><a id="5"></a>
+<h3>Diabetes-Prediction directory tree</h3><a id="5"></a>
 
 ```
 ├─ static
